@@ -198,7 +198,7 @@ server.post('/api/register', async (req, res) => {
     user.gender = '';
     user.address = '';
     database.accounts.push(user);
-
+    console.log(database);
     fs.writeFileSync('./db.json', JSON.stringify(database, null, 2));
 
     res.status(200).json({ message: 'created' });

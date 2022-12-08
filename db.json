@@ -718,6 +718,48 @@
       "email": "",
       "gender": "",
       "address": ""
+    },
+    {
+      "username": "ronaldo123",
+      "password": "$2a$10$472B7mjVmaYfqWbnKvk1Uufxd3RR14yAxFI37j9elnOkGGVyqPu4W",
+      "createdAt": 1670466407976,
+      "updatedAt": 1670466407976,
+      "id": "46468b7b-eaa7-480c-993e-4abc82f5e923",
+      "role": "user",
+      "name": "",
+      "birthday": "",
+      "phone": "",
+      "email": "",
+      "gender": "",
+      "address": ""
+    },
+    {
+      "username": "sullicious_",
+      "password": "$2a$10$c/Kj5VldHwxI0lkBqtDARefcGFd4mTQn0ely.Icj2uOXHdbeY7wpi",
+      "createdAt": 1670467066604,
+      "updatedAt": 1670467066604,
+      "id": "5cad0d6d-4513-41a4-aec3-edb09baa46eb",
+      "role": "user",
+      "name": "",
+      "birthday": "",
+      "phone": "",
+      "email": "",
+      "gender": "",
+      "address": ""
+    },
+    {
+      "username": "sullicious",
+      "password": "$2a$10$I8BR2ORbVuwTSHIcXrREJuxGsEpvByvNaLNO9jzn.2q3N58kD161O",
+      "createdAt": 1670467141484,
+      "updatedAt": 1670467177978,
+      "id": "e8a383d0-922d-4648-b688-b3c442594af2",
+      "role": "user",
+      "name": "Thu Huong",
+      "birthday": "1998-08-17",
+      "phone": "0988888888",
+      "email": "sunguyen17898@gmail.com",
+      "gender": "female",
+      "address": "Ha Noi"
     }
   ],
   "histories": [
