@@ -16,7 +16,7 @@ server.use(cors());
 
 const fs = require('fs');
 const jwt = require('jsonwebtoken');
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const SECRET_KEY = '123456789';
 const EXPIRES_IN = '1d';
 const TOKEN_TYPE = 'Bearer';
