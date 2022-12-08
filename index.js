@@ -208,7 +208,8 @@ server.post('/api/register', async (req, res) => {
 });
 
 // Use default router
+const port = process.env.PORT || 3000;
 server.use('/api', router);
-server.listen(3000, () => {
+server.listen(port, () => {
   console.log('JSON Server is running');
 });
